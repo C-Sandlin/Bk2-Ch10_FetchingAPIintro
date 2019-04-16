@@ -1,0 +1,48 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Tacos",
+      "category": "Indulgences",
+      "ethnicity": "Mexican"
+    },
+    {
+      "id": 3,
+      "name": "Grilled Chicken",
+      "category": "Holiday Foods",
+      "ethnicity": "American"
+    },
+    {
+      "id": 4,
+      "name": "Gelato",
+      "category": "Dessert",
+      "ethnicity": "Italian"
+    },
+    {
+      "id": 5,
+      "name": "Lentil Soup",
+      "category": "Holiday Foods",
+      "ethnicity": "German"
+    },
+    {
+      "name": "Ice Cream",
+      "category": "Desserts",
+      "ethnicity": "American",
+      "id": 7
+    }
+  ],
+  "drinks": [
+    {
+      "name": "water",
+      "id": 1
+    },
+    {
+      "name": "tea",
+      "id": 2
+    },
+    {
+      "name": "coffee",
+      "id": 3
+    }
+  ]
+}
