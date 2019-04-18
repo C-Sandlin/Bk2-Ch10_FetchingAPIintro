@@ -55,12 +55,3 @@
   ]
 }
 
-// Your job is to query the Open Food Facts API for each of your products, and list the following additional information.
-
-// Ingredients
-// Country of origin
-// Calories per serving
-// Fat per serving
-// Sugar per serving
-
-// Helpful hints: You will need to use the forEach array method to iterate your foods. Inside that forEach, you will need to perform another fetch to get the additional information. The barcode value must be interpolated inside the URL for the inner fetch.

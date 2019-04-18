@@ -157,7 +157,6 @@ getDataBtn.addEventListener("click", () => getData());
     //         <p>Sugar: ${foodItem.sugar}</p>
     //         `;
     // }
-    
     // //appends to the DOM
     // addFoodToDom = (foodAsHTML) => {
     //     const el = document.querySelector("#container");
