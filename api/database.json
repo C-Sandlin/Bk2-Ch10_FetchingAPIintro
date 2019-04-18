@@ -4,45 +4,54 @@
       "id": 1,
       "name": "Tacos",
       "category": "Indulgences",
-      "ethnicity": "Mexican"
+      "ethnicity": "Mexican",
+      "barcode": "8410076481368"
     },
     {
       "id": 3,
       "name": "Grilled Chicken",
       "category": "Holiday Foods",
-      "ethnicity": "American"
+      "ethnicity": "American",
+      "barcode": "0011110793492"
     },
     {
       "id": 4,
       "name": "Gelato",
       "category": "Dessert",
-      "ethnicity": "Italian"
+      "ethnicity": "Italian",
+      "barcode": "0186852000075"
     },
     {
       "id": 5,
       "name": "Lentil Soup",
       "category": "Holiday Foods",
-      "ethnicity": "German"
+      "ethnicity": "German",
+      "barcode": "00633109"
     },
     {
       "name": "Ice Cream",
       "category": "Desserts",
       "ethnicity": "American",
-      "id": 7
+      "id": 7,
+      "barcode": "0076840600021"
     }
   ],
   "drinks": [
     {
       "name": "water",
-      "id": 1
+      "id": 1,
+      "barcode": " 5449000084071"
     },
     {
       "name": "tea",
-      "id": 2
+      "id": 2,
+      "barcode": "0613008730758"
     },
     {
       "name": "coffee",
-      "id": 3
+      "id": 3,
+      "barcode": "0012000813313"
     }
   ]
 }
+
